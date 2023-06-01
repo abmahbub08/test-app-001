@@ -1,0 +1,7 @@
+.user {
+    padding: 5px;
+    line-height: 20px;
+    border:1px solid #ccc;
+    margin-bottom: 10px;
+    font-weight: bold;
+}

@@ -1,0 +1,23 @@
+.form-control {
+    margin-bottom: 10px;
+}
+.form-control label {
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 20px;
+    margin-bottom: 5px;
+}
+.form-control label ~ input {
+    width: 100%;
+}
+.submit-btn button {
+    width: auto;
+    padding: 5px 15px;
+    line-height: 14px;
+    font-size: 12px;
+    background-color: blueviolet;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
